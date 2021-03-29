@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱 I’m currently learning Reactjs, TailwindCss and Backend devOps(Nodejs, Express, MongoDb, Sequelize, Postgres, and etc) 
+🌱 I am still developing to learn new things and still trying to make projects from the lessons I have learned before.
 
 <!--
 **LeokritaJessica/leokritajessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
